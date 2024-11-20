@@ -15,7 +15,6 @@ Welcome to my GitHub! I am an **aspiring full-stack developer** pursuing a **Bac
 ## 🎓 Currently Learning & Exploring
 
 - **Go (Golang)**: Diving into Go for its simplicity and performance in backend development.
-- **Docker**: Exploring containerization and how Docker simplifies development, testing, and deployment.
 - **Kubernetes**: Learning Kubernetes for container orchestration to improve scalability and manage cloud-native applications.
 - **Jenkins**: Gaining hands-on experience with Jenkins for automating build and deployment processes.
 - **CI/CD**: Building pipelines for continuous integration and deployment to streamline the software delivery process.
