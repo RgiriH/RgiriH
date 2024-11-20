@@ -34,3 +34,11 @@ _April 2024 - August 2024_
 - **LinkedIn**: [Girish HR on LinkedIn](https://www.linkedin.com/in/girish-hr-448a3b1b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - **GitHub**: [Girish HR on GitHub](https://github.com/RgiriH)
 
+![LeetCode](https://img.shields.io/badge/LeetCode-400%2B-brightgreen)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow)
+![React](https://img.shields.io/badge/React.js-16.8%2B-blue)
+![Node.js](https://img.shields.io/badge/Node.js-14.x%2B-green)
+![MongoDB](https://img.shields.io/badge/MongoDB-v4.x-orange)
+![GitHub](https://img.shields.io/badge/GitHub-RgiriH-lightgrey)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Girish%20HR-blue)
+
